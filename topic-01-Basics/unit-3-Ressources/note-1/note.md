@@ -1,6 +1,6 @@
-# Note 2
+# Note 1
 
-Note added 
+Quick summary of our Findings
 
 This is an example of a note. 
 
