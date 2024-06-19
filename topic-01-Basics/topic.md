@@ -1,3 +1,3 @@
-# Before
+# Basic Terminoligy
 
-Hopes and Expectations before departure.
+Basic Terms to describe Color.

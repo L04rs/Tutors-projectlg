@@ -1,3 +1,3 @@
-# First Weeks
+# Impact of Color
 
-First Impressions and initial Thoughts and Feelings.
+What different Colors do to our Perception.
