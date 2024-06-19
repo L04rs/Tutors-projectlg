@@ -1,3 +1,3 @@
-# Tutors Starter
+# Basic Color Theory
 
-A short description of the course. Normally this will not be visible, unless the course is aggregated into a portfolio of modules
+A short Course on how to not suck at color.
