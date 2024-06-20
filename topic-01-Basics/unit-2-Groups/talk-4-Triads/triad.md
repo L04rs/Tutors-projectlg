@@ -1,3 +1,3 @@
-# Lecture 3
+# Lecture 4
 
-Complementary Color-Groups
+Triadic and Tetradic Color-Groups
