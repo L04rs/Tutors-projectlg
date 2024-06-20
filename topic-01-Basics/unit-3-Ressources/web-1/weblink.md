@@ -1,3 +1,3 @@
 Web Site 1
 
-A web site of interest
+Color Picker Tool, for creating Color Groups
