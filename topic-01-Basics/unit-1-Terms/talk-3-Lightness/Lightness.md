@@ -1,3 +1,3 @@
 # Lecture 3
 
-What is Lightness?
+What is Color Value?
